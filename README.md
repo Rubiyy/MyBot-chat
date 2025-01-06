@@ -22,7 +22,7 @@ MyBot is an intelligent chat assistant plugin for the Matrix network, built on t
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/rubiyy/mybot.git
+git clone https://github.com/rubiyy/mybot-chat.git
 cd mybot-chat
 ```
 
